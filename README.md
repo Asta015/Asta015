@@ -62,7 +62,7 @@
 - **[Vehicle Detection](https://github.com/Asta015)** — YOLOv3 + OpenCV for real-time object detection with bounding boxes
 - **[To-Do Application](https://github.com/Asta015)** — Task management app with Django CRUD and SQL storage
 - **[Student Management System](https://github.com/Asta015)** — Django MVT app with CRUD, search, and SQL integration
-- **[BlinkIt Sales Analysis (Power BI)]** — Interactive dashboard tracking sales, customer satisfaction & inventory KPIs across categories
+- **[BlinkIt Sales Analysis (Power BI)](https://github.com/Asta015)** — Interactive dashboard tracking sales, customer satisfaction & inventory KPIs across categories
 - **[IPL 2025 Performance Analysis (Power BI)](https://github.com/Asta015)** — Dashboard visualizing team/player performance, strike rates & win percentages with drill-down comparisons
 - **[Diwali Sales Analysis (Python)](https://github.com/Asta015)** — Cleaned, aggregated & visualized seasonal sales trends using Pandas, Matplotlib & Seaborn
 
