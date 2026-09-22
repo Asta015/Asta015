@@ -10,6 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.Tech in **Artificial Intelligence and Data Science**, SRM Valliammai Engineering College (2021–2025)
+- 📊 Data Analysis enjoyer 📈 low-key obsessed with clean dashboards
 - 🔭 I build full-stack apps with **Python, Django, SQL** and computer vision systems with **OpenCV, CNN, YOLOv3**
 - 🌱 Currently sharpening my skills in **AI/ML and scalable software design**
 - 👯 Open to collaborating on **Python, Django, or Computer Vision** projects
