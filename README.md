@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahi</h1>
-<h3 align="center">Software Developer | Data Analyst  </h3>
+<h3 align="center">Gen AI Developer | Data Scientist | Data Analyst </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Python+%7C+Django+%7C+SQL+Developer;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+%7C+CNN+%7C+YOLOv3;Turning+data+into+real-world+solutions!" alt="Typing SVG" />
